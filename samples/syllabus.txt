@@ -1,0 +1,8 @@
+# Synthetic syllabus - "Data Structures 101" (fictional course, demo only)
+# Format: Topic | weight (1-5) | extra keywords (comma separated)
+Arrays and Strings | 4 | array,string,subarray,prefix sum
+Linked Lists | 3 | linked list,pointer,node reversal
+Trees and Graphs | 5 | tree,graph,bfs,dfs,traversal,binary tree
+Dynamic Programming | 5 | dp,memoization,recurrence,knapsack
+Sorting and Searching | 3 | sort,binary search,merge,quicksort
+Hashing | 2 | hash,map,collision
