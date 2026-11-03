@@ -1,0 +1,9 @@
+# year: 2026
+# Synthetic past paper, fictional course. Demo data only.
+Q1 [Dynamic Programming] (8 marks): Edit distance with dp memoization.
+Q2 [Trees and Graphs] (6 marks): Number of islands using DFS traversal.
+Q3 [Arrays and Strings] (5 marks): Sliding window over a string subarray.
+Q4 [Hashing] (4 marks): Handle collisions with chaining in a hash map.
+Q5 [Linked Lists] (5 marks): Detect a cycle in a linked list.
+Q6 [Dynamic Programming] (8 marks): Coin change with a recurrence relation.
+Q7 [Trees and Graphs] (6 marks): Diameter of a binary tree.
