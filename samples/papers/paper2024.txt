@@ -1,0 +1,10 @@
+# year: 2024
+# Synthetic past paper, fictional course. Demo data only.
+Q1 [Arrays and Strings] (5 marks): Find the maximum subarray sum using prefix sum.
+Q2 [Dynamic Programming] (6 marks): Solve coin change using memoization.
+Q3 [Dynamic Programming] (8 marks): Solve 0/1 knapsack with memoization.
+Q4 [Sorting and Searching] (4 marks): Apply binary search on a rotated sorted array.
+Q5 [Trees and Graphs] (6 marks): Detect a cycle in a directed graph with DFS.
+Q6 [Arrays and Strings] (5 marks): Compress a string using run-length encoding.
+Q7 [Dynamic Programming] (8 marks): Derive the recurrence for longest common subsequence.
+Q8 [Guest Lecture] (3 marks): Describe quantum annealing for optimization.
