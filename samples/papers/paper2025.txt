@@ -1,0 +1,10 @@
+# year: 2025
+# Synthetic past paper, fictional course. Demo data only.
+Q1 [Trees and Graphs] (6 marks): Compute shortest paths with BFS on an unweighted graph.
+Q2 [Dynamic Programming] (8 marks): Tabulation vs memoization for the knapsack recurrence.
+Q3 [Linked Lists] (5 marks): Reverse a linked list using pointer manipulation.
+Q4 [Arrays and Strings] (5 marks): Two-sum with a hash map.
+Q5 [Dynamic Programming] (8 marks): Longest increasing subsequence using dp.
+Q6 [Trees and Graphs] (6 marks): Inorder traversal of a binary tree without recursion.
+Q7 [Sorting and Searching] (4 marks): Merge two sorted arrays.
+This line is not a question and must be logged, not dropped.
