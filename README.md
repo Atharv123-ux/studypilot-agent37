@@ -1,7 +1,7 @@
 # StudyPilot - Past-Paper-to-Revision-Plan Agent
 
-Private working prototype. A separate project from LabMate, BriefBridge and InboxZero.
-No public repository, no hosted run and no challenge submission exists yet.
+Public demonstration prototype. A separate project from LabMate, BriefBridge and InboxZero.
+No hosted Agent37 run and no challenge submission exists yet.
 
 StudyPilot turns a course syllabus plus past exam papers into a prioritized,
 day-by-day revision plan, a generated practice paper with an answer key, and a
